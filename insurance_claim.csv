@@ -1,0 +1,14 @@
+authorities_contacted,(All),
+property_damage,NO,
+auto_year,1995,
+,,
+Row Labels,Sum of capital-loss,Sum of capital-gains
+Multi-vehicle Collision,-240800,162600
+Front Collision,-84900,81700
+Rear Collision,-155900,80900
+Side Collision,0,0
+Single Vehicle Collision,-85500,127800
+Front Collision,-85500,91200
+Rear Collision,0,36600
+Vehicle Theft,-44000,80800
+Grand Total,-370300,371200
